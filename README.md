@@ -1,3 +1,4 @@
+### KDE Tokyo Night Rice
 
 + **KDE Colors**: [Tokyo Night](https://github.com/nonetrix/tokyonight-kde) 
 + **SDDM**: [SilentSDDM](https://github.com/uiriansan/SilentSDDM)
@@ -9,12 +10,16 @@
 + **Panel look**:[Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) 
 + **Browser**: Firefox with [Tabliss exstenion](https://tabliss.io/) 
 
+[Reddit post](https://www.reddit.com/r/unixporn/comments/1lps3jp/kde_tokyo_night_rice/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+
 #### Settings 
 
+##### Kröhnkite and Rounded Corners
 The only thing I changed in Kröhnkite was adding 8 px gaps on all sides. 
 In Rounded Corners I set both Primary and Secondary Outline to enable and enabled "Disable Roundness on Tile" 
 
-My KRounded Corners DE Panels are all set to "Fit Content" and uses the "Orbit" Preset in Panel Colorizer. Every section of the top bar is its own panel. They are all set to "Dodge Windows". If they are set to "Always Show" they will stack. 
+##### Panels
+All my Panels are set to "Fit Content" and uses the "Orbit" Preset in Panel Colorizer. Every section of the top bar is its own panel. They are all set to "Dodge Windows". If they are set to "Always Show" they will stack. 
 
 ### Shameless plug 
 
