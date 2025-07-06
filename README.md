@@ -1,8 +1,8 @@
-### KDE Tokyo Night Rice
+# KDE Tokyo Night Rice
 
 + **KDE Colors**: [Tokyo Night](https://github.com/nonetrix/tokyonight-kde) 
 + **SDDM**: [SilentSDDM](https://github.com/uiriansan/SilentSDDM)
-+ **Kwin Scripts**:[Kröhnkite](https://github.com/esjeon/krohnkite) and [KDE Rounded Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) 
++ **Kwin Scripts**: [Kröhnkite](https://github.com/esjeon/krohnkite) and [KDE Rounded Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) 
 + **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 + **Icon Theme**: Breeze
 + **Fonts**: JetBrainsMono in terminal and Noto Sans in KDE
@@ -12,7 +12,7 @@
 
 [Reddit post](https://www.reddit.com/r/unixporn/comments/1lps3jp/kde_tokyo_night_rice/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 
-#### Settings 
+## Settings 
 
 ##### Kröhnkite and Rounded Corners
 The only thing I changed in Kröhnkite was adding 8 px gaps on all sides. 
